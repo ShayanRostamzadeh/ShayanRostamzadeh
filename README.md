@@ -6,7 +6,7 @@ I'm @ShayanRostamzadeh, a passionate Certified Ethical Hacker with a focus on wi
 
 🎯 Looking to collaborate on pentesting projets and available to join rea-teaming operations as a working student.
 
-💡 Open to discussing ideas and sharing knowledge about [Related interests].
+💡 Open to discussing ideas and sharing knowledge about Cybersecurity, Penetration Testing, Malware evelopment, and Embedded Systems.
 
 🏅 Certifications: Certified Ethical Hacker (CEH) Certification issued by EC-Council.
 
